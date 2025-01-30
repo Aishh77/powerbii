@@ -4,7 +4,7 @@ The Business Insights 360 offers a robust dashboard powered by Microsoft Power B
 
 Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzk0MzI3ZDYtODVmOS00MDUwLWE2ZTktOWVmM2UyNmU0YTE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Portfolio: [Click Here](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
+Portfolio: [Click Here]
 
 # Key Highlights
 **1. Tailored Dashboard:**  Crafted a versatile Power BI dashboard catering specifically to AtliQ Hardware's requirements, facilitating nuanced insights into their diverse departments.
